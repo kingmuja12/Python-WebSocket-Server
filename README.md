@@ -24,7 +24,8 @@ This project is a WebSocket server implementation in Python that includes a basi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-url/WebSocket-Python-Server.git
+   git clone https://github.com/kingmuja12/Python-WebSocket-Server.git
+  
    cd WebSocket-Python-Server
 Usage
 Ensure the server and clients are on the same private network.
